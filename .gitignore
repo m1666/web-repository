@@ -1,0 +1,41 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+env/
+venv/
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+target/
+
+# macOS
+.DS_Store
+
+# Linux
+*~
+
+# IDEs
+.idea/
+*.swp
+*.swo
+.vscode/
+
+# Logs
+logs/
+*.log
+
+# Build directories
+dist/
+build/
+
+# Dependency directories
+bower_components/
